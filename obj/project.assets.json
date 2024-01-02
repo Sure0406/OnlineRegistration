@@ -3516,11 +3516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Surendhar D\\source\\repos\\OnlineRegistrationForm\\OnlineRegistrationForm\\OnlineRegistrationForm.csproj",
+      "projectUniqueName": "C:\\Users\\Surendhar D\\Desktop\\Interview\\OnlineRegistrationForm\\OnlineRegistrationForm.csproj",
       "projectName": "OnlineRegistrationForm",
-      "projectPath": "C:\\Users\\Surendhar D\\source\\repos\\OnlineRegistrationForm\\OnlineRegistrationForm\\OnlineRegistrationForm.csproj",
+      "projectPath": "C:\\Users\\Surendhar D\\Desktop\\Interview\\OnlineRegistrationForm\\OnlineRegistrationForm.csproj",
       "packagesPath": "C:\\Users\\Surendhar D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Surendhar D\\source\\repos\\OnlineRegistrationForm\\OnlineRegistrationForm\\obj\\",
+      "outputPath": "C:\\Users\\Surendhar D\\Desktop\\Interview\\OnlineRegistrationForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Surendhar D\\AppData\\Roaming\\NuGet\\NuGet.Config",
